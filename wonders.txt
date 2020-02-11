@@ -1,0 +1,42 @@
+Alhambra	1
+Angkor Wat	5
+Big Ben	4
+Borobudur	2
+Brandenburg Gate	2
+Broadway	5
+Chichen Itza	2
+Colossus	1
+Eiffel Tower	2
+Forbidden Palace	2
+Globe Theatre	5
+Great Library	1
+Great Lighthouse	2
+Great Mosque of Djenne	5
+Great Wall	2
+Hagia Sophia	3
+Hanging Gardens	1
+Himeji Castle	4
+Hubble Space Telescope	1
+Kremlin	3
+Leaning Tower of Pisa	2
+Louvre	5
+Machu Picchu	1
+Mausoleum of Halicanasus	2
+Neuschwanstein	3
+Notre Dame	1
+Oracle	3
+Parthenon	4
+Petra	2
+Porcelain Tower	3
+Prora	1
+Pyramids	3
+Red Fort	3
+Sistine Chapel	3
+Statue of Liberty	1
+Statue of Zeus	5
+Stonehenge	2
+Sydney Opera House	5
+Taj Mahal	2
+Temple of Artemis	1
+Terracotta Army	4
+Uffizi	5

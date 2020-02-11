@@ -1,0 +1,20 @@
+For i = 1 To 6
+X = RandomX.Next(1, 30)
+p(i).Civ = X
+Do
+X = RandomX.Next(1, 46)
+TempScore = TempScore + AllWonderScore(X)
+p(i).Wonders(c) = AllWonders(X)
+If TempScore >= ((score - AllCivScore(p(i).Civ)) - 5) And TempScore <= (score - AllCivScore(p(i).Civ)) Then
+Exit Do
+End If
+If TempScore > (score - AllCivScore(p(i).Civ)) Then
+For j = 1 To c
+p(i).Wonders(j) = 0
+Next
+c = 0
+TempScore = 0
+End If
+c = c + 1
+Loop
+Next
