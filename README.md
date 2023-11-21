@@ -2,11 +2,11 @@
 
 ## Installation
 simply go to your preferred workspace directory and enter the following:
-`git clone https://github.com/synonymous01/civ5_drafter.git`
+```git clone https://github.com/synonymous01/civ5_drafter.git```
 
 ## Usage
 run this command
-`python wonders.py`
+```python wonders.py```
 
 The program will ask you for the number of players. Enter that then it will ask you the name of each player. Output will be the Wonders and Civilization allocated to each player.
 
